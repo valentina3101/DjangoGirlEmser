@@ -1,13 +1,17 @@
-
-h1 {
-    color: #FF8C00;
-    font-family: serif;
-	font-size: 120%
+h1 a h2 a {
+    text-align: center ;
 }
-body {
-    padding-left: 10 px;
+html {
+    background-color : #ff8000 ;
+}   
+body { 
+    text-align: left ;
+	font: 150% Times New Roman, sans-serif; 
+	line-height:1 ; /**establece la distancia entre lineas de texto**/
+	color: black;
+    margin: 0; 
+	padding: 10;
 }
-
 
 .page-header {
     background-color: #F5F540 ;
